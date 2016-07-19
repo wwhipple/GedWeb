@@ -2,5 +2,5 @@ Changes
 Makefile.PL
 MANIFEST
 README
-t/File-Backup-Multi.t
-lib/File/Backup/Multi.pm
+t/GedWeb-Individual.t
+lib/GedWeb/Individual.pm
